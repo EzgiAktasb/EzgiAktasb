@@ -1,6 +1,6 @@
-### Hello world👋
-Freshman at Bilkent CS :Ezgi Aktaş.
-Currently learning Java. 
+### Hello world
+Sophomore at Bilkent Econ
+
 <!--
 **EzgiAktasb/EzgiAktasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
