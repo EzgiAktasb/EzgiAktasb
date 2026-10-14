@@ -1,5 +1,5 @@
-### Hello world
-Junior at Bilkent Econ
+
+Senior at Bilkent Econ & Software Development 
 
 <!--
 **EzgiAktasb/EzgiAktasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
